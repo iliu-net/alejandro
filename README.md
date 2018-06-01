@@ -1,4 +1,4 @@
 # alejandro
 Personal BLOG
 
-Uses the [alpha-one](https://github.com/proudier/alpha-one) theme.
+Uses the [jonaskay/jekyll-theme-xyzzy](https://github.com/jonaskay/jekyll-theme-xyzzy) theme.
