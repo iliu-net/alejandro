@@ -1,4 +1,4 @@
 # alejandro
 Personal BLOG
 
-Uses the [Artisan](https://github.com/EricHripko/artisan) theme.
+Uses the [alpha-one](https://github.com/proudier/alpha-one) theme.
