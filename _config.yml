@@ -8,3 +8,5 @@ show_downloads: false
 
 #url: https://alejandro.iliu.net/
 
+header_pages:
+  - about.md
