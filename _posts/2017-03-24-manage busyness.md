@@ -51,7 +51,7 @@ to identify what comes first:
 
 What these quadrants reveal is that identifying which tasks are either
 important or urgent boils down to time management and what makes us
-most efficient. For example, President Obama’s former campaign manager
+most efficient. For example, President Obama' former campaign manager
 said in an article by WebMD that Obama valued his time to exercise and
 that it helped fuel him for the rest of his day. According to Obama,
 "The rest of my time will be more productive if you give me my workout
@@ -64,10 +64,10 @@ as an excuse to avoid the really difficult question: 'Do I actually
 need to be doing this?' It is much easier to remain busy and tell
 yourself that you just need to be a little more efficient or to 'work
 a little later tonight' than to endure the pain of eliminating a task
-that you are comfortable with doing, but that isn’t the highest and
+that you are comfortable with doing, but that isn' the highest and
 best use of your time."
 
-Let’s take a deeper look at each quadrant, what it means, and how we
+Let' take a deeper look at each quadrant, what it means, and how we
 should approach all of our tasks with either urgency or importance
 (or both).
 
@@ -130,7 +130,7 @@ after a deadline to inform someone when that deadline is:
 
 You: "Hey, the class will be starting at noon today."
 
-Colleague: "Really? Because it’s already 2 P.M.!"
+Colleague: "Really? Because it' already 2 P.M.!"
 
 ## Not Urgent And Not Important
 

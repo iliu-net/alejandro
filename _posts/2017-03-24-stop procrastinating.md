@@ -24,7 +24,7 @@ comment_count: "0"
 title: stop procrastinating
 ---
 
-We are all guilty of procrastinating from time to time—there's always
+We are all guilty of procrastinating from time to time--here's always
 something more interesting than the work in hand. We usually think it's
 no big deal, since deadline is our biggest inspiration, and we do our
 best work when we're inspired. We may even joke about it.
@@ -35,11 +35,11 @@ A survey in 2015 found that **on average, a person loses over 55 days
 per year** procrastinating, wasting around 218 minutes every day on
 doing unimportant things.
 
-Here’s the maths:
+Here' the maths:
 
 *218 minutes/day x 365 = 79570 minutes = 55.3 days*
 
-That’s a lot of time wasted!
+That' a lot of time wasted!
 
 If you think you need to have a lot of willpower to get productive,
 you're wrong.
@@ -58,7 +58,7 @@ be effective. What we should do is to look into the root causes of
 procrastination and start with the small things we can do every day
 and build a habit of staying productive.
 
-Basically there’re 5 common reasons why we procrastinate.
+Basically there'e 5 common reasons why we procrastinate.
 
 Identify the real reason and find out how to stop procrastination
 accordingly:
@@ -205,7 +205,7 @@ simply postpone making any decisions.
 You have to get your priorities straight. Important tasks should
 take priority over urgent ones because "urgent" doesn't always mean
 important. You only have so much time and energy, and you don't want
-to waste that on things that don’t matter.
+to waste that on things that don' matter.
 
 Identify the purpose of your task and the expected outcome. Important
 tasks are the ones that add value in the long run.
