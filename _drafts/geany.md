@@ -2,7 +2,11 @@
 title: Geany text editor
 ---
 
-After over 30 years of using GNU emacs, we have replaced it with geany!
+So after over 30 years of using GNU emacs as my go-to editor I have finally switched to [Geany](https://www.geany.org/).
+
+So, essentially, nowadays, I use two editor, `vi` that comes with `busybox` and `geany`.  The only thing that I miss from 
+this set-up is the lack of `macro` recording.
+
 
 Still todo:
 
